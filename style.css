@@ -1,0 +1,44 @@
+
+ .center{
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid #73AD21;    
+  text-align: center;
+  background-color: rgb(193, 173, 230);
+  color: red;
+  padding: 20px;
+
+}
+
+
+.look{
+    position: relative;
+    width: 300px;
+    left: 340px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    text-shadow: 2px 2px;
+
+
+}
+
+div.relative {
+  position: relative;
+  width: 745px;
+  height: 490px;
+  border: 3px solid #73AD21;
+} 
+
+div.absolute {
+  position: absolute;
+  top: 320px;
+  right: 0;
+  width: 300px;
+  height: 150px;
+  border: 3px solid #73AD21;
+}
+
+
